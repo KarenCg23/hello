@@ -1,2 +1,2 @@
 # Karen Calzada G.
-Me gustan los servidores, la virtualización y la programación.
+Soy ingeniera en Computación.Me gustan los servidores, la virtualización y la programación.
